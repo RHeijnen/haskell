@@ -12,6 +12,14 @@ TODO:
 
 
 Parse multiline code 
+
+
 Fix no parameter issue / aanroepen van functie die 2 parameters verwacht met 1
+
+
 pipe code naar interpreter
+
+
 add parser and other functionalityt
+
+
